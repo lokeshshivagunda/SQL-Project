@@ -2,7 +2,7 @@
 Target- SQL
 The data is available in 8 csv files:
 
-customers.csv
+customers.csv  
 sellers.csv
 order_items.csv
 geolocation.csv
